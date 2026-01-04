@@ -52,18 +52,12 @@ CLIENTX/
 
 Clone the repository
 
-git clone https://github.com/your-username/clientx-crm-landing-page.git
+git clone https://github.com/Chethumalli/clientx-crm-landing-page.git
 
 
 Open index.html in your browser
 
 Customize content, colors, or sections as needed
-
-📸 Screenshots (Optional)
-
-Add screenshots here to visually showcase the UI
-
-![CLIENTX Landing Page](assets/images/preview.png)
 
 🔮 Future Enhancements
 
@@ -83,6 +77,7 @@ Feel free to fork the repository and submit a pull request.
 📄 License
 
 This project is open-source and available under the MIT License.
+
 
 
 
