@@ -1,4 +1,4 @@
-🚀 CLIENTX – CRM Landing Page Interface
+<pre>🚀 CLIENTX – CRM Landing Page Interface
 
 CLIENTX is a modern, clean, and fully responsive CRM landing page designed to showcase a Customer Relationship Management platform in a professional and engaging way.
 Built using HTML5 and CSS3, this project highlights strong front-end design fundamentals and serves as a starter template for SaaS & CRM products.
@@ -83,3 +83,5 @@ Feel free to fork the repository and submit a pull request.
 📄 License
 
 This project is open-source and available under the MIT License.
+
+</pre>
