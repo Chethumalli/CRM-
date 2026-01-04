@@ -52,7 +52,7 @@ CLIENTX/
 
 Clone the repository
 
-git clone https://github.com/Chethumalli/clientx-crm-landing-page.git
+git clone https://github.com/Chethumalli/CRM-.git
 
 
 Open index.html in your browser
@@ -77,6 +77,7 @@ Feel free to fork the repository and submit a pull request.
 📄 License
 
 This project is open-source and available under the MIT License.
+
 
 
 
