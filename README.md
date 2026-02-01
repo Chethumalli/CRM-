@@ -69,10 +69,6 @@ Add animations & transitions
 
 Convert to React / Next.js version
 
-🤝 Contributing
-
-Contributions are welcome!
-Feel free to fork the repository and submit a pull request.
 
 
 
