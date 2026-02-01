@@ -38,8 +38,9 @@ Practice responsive UI design
 Build a professional SaaS landing page
 
 Create a reusable CRM landing page template
-<pre>
+
 📂 Project Structure
+<pre>
 CLIENTX/
 │── index.html
 │── style.css
@@ -68,6 +69,7 @@ Integrate contact form with backend
 Add animations & transitions
 
 Convert to React / Next.js version
+
 
 
 
