@@ -3,7 +3,7 @@
 CLIENTX is a modern, clean, and fully responsive CRM landing page designed to showcase a Customer Relationship Management platform in a professional and engaging way.
 Built using HTML5 and CSS3, this project highlights strong front-end design fundamentals and serves as a starter template for SaaS & CRM products.
 
-✨ Overview
+### ✨ Overview
 
 CLIENTX focuses on clarity, usability, and visual appeal, helping businesses present their CRM solution effectively to potential customers.
 
@@ -69,6 +69,7 @@ Integrate contact form with backend
 Add animations & transitions
 
 Convert to React / Next.js version
+
 
 
 
