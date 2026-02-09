@@ -39,7 +39,7 @@ Build a professional SaaS landing page
 
 Create a reusable CRM landing page template
 
-📂 Project Structure
+### 📂 Project Structure
 <pre>
 CLIENTX/
 │── index.html
@@ -60,7 +60,7 @@ Open index.html in your browser
 
 Customize content, colors, or sections as needed
 
-🔮 Future Enhancements
+### 🔮 Future Enhancements
 
 Add JavaScript for interactivity
 
@@ -69,6 +69,7 @@ Integrate contact form with backend
 Add animations & transitions
 
 Convert to React / Next.js version
+
 
 
 
