@@ -9,7 +9,7 @@ CLIENTX focuses on clarity, usability, and visual appeal, helping businesses pre
 
 It includes well-structured sections, smooth layouts, and responsive design principles to ensure a seamless experience across all devices.
 
-🌟 Key Features
+### 🌟 Key Features
 
 ✔ Fully Responsive Design – Optimized for desktop, tablet, and mobile
 ✔ Clean & Professional UI – Ideal for CRM & SaaS products
@@ -69,6 +69,7 @@ Integrate contact form with backend
 Add animations & transitions
 
 Convert to React / Next.js version
+
 
 
 
