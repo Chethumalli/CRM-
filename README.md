@@ -25,7 +25,7 @@ Contact Section
 ✔ Easy Customization – Modify content, colors, and layout easily
 ✔ Backend Ready – Can be integrated with any CRM backend or API
 
-🛠 Tech Stack
+### 🛠 Tech Stack
 Technology	Purpose
 HTML5	Page structure & semantic layout
 CSS3	Styling, animations & responsiveness
@@ -69,6 +69,7 @@ Integrate contact form with backend
 Add animations & transitions
 
 Convert to React / Next.js version
+
 
 
 
